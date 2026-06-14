@@ -1,5 +1,10 @@
 __pycache__/
 .venv/
-models/*.pklmodels/
 __pycache__/
 .venv/
+
+# Modelos e plots gerados
+models/*
+plots/*
+!models/.gitkeep
+!plots/.gitkeep
